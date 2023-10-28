@@ -14,7 +14,7 @@ For a door, it is the dimension in the plane perpendicular to door leaf. If give
 For a door, it is the dimension in plane of the door leaf. If given it is applied equally to all four sides of the adjacent wall.
 
 ### LiningDepth
-For a door, it is the depth of the door lining, measured perpendicular to the plane of the door lining. If omitted (and with a given value to lining thickness) it indicates an adjustable depth (i.e. a depth that adjusts to the thickness of the wall into which the occurrence of this door style is inserted).
+For a door, it is the depth of the door lining, measured perpendicular to the plane of the door leaf. If omitted (and with a given value to lining thickness) it indicates an adjustable depth (i.e. a depth that adjusts to the thickness of the wall into which the occurrence of this door style is inserted).
 
 ### LiningOffset
 For a door, it is the offset (dimension in plane perpendicular to door leaf) of the door lining. The offset is given as distance to the x axis of the local placement.
